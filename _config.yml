@@ -1,2 +1,3 @@
 name: Amy Cai 
 markdown: Kramdown 
+permalink: /blog/:year/:month/:day/:title
